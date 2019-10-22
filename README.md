@@ -6,7 +6,7 @@ Latihan praktikum menggunakan Python
 Pertama, saya mencoba menggunakan text editor notepad untuk membuat file program python.
 Saya tuliskan perintah sesuai yang dosen berikan kedalam notepad seperti berikut :  
   
-# Latihan penggunaan end  
+#Latihan penggunaan end  
 print('A', end= '')  
 print('B', end= '')  
 print('C', end= '')  

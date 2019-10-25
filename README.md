@@ -54,7 +54,6 @@ Pada contoh diatas angka pertama akan muncul sebagai nomor, dan angka _10**n_ ak
 menghasilkan nilai _10 pangkat n_.  
   
   
-  
 #String format  
 print('{0:>3} {1:>16}'.format(0, 10**0))  
 print('{0:>3} {1:>16}'.format(1, 10**1))  
